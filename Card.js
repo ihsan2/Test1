@@ -23,7 +23,7 @@ const Card = ({item, index}) => {
         />
       </View>
       <View>
-        <Text style={styles.like}>20.000 Suka</Text>
+        <Text style={styles.like}>30.000 Suka</Text>
       </View>
       <View>
         <Text style={styles.content}>
